@@ -1,0 +1,9 @@
+{
+    "name": "ConchaSuMareMod",
+    "version_number": "1.2.1",
+    "website_url": "https://github.com/Lecre12/ConchaSuMareMod",
+    "description": "Adds a new audio when a player dies from fall damage or when a player falls in to the void (CONCHATUMADREE)",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "FriendlyFirelessCompany",
+    "version_number": "0.2.1",
+    "description": "Allows you to disable, tweak or multiply friendly fire. Make sure everyone has the mod installed!",
+    "website_url": "https://thunderstore.io/c/lethal-company/p/RogerFK_TEAM/FriendlyFirelessCompany",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "2018-LC_API-2.2.0"
+    ]
+}
