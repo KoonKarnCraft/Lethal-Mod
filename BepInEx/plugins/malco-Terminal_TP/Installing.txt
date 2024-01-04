@@ -1,0 +1,7 @@
+This mod uses BepinEx to modify the game code, like most Unity mods.
+
+Installing the Mod:
+    You can merge the included BepInEx folder with your existing BepInExFolder (".../common/Lethal Company/BepInEx").
+    Ensure TerminalTP.dll is in ".../Lethal Company/BepInEx/plugins".
+
+You're good to go.
