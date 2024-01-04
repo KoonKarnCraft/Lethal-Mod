@@ -1,9 +1,0 @@
-{
-    "name": "ScannablePlayers",
-    "version_number": "2.0.0",
-    "website_url": "https://github.com/Obsidian-ig/ScannablePlayers",
-    "description": "A simple mod for lethal company that lets the local player scan other players with their scanner.",
-    "dependencies": [
-        "bbepis-BepInExPack-5.4.2113"
-    ]
-}
