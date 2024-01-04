@@ -1,0 +1,9 @@
+{
+    "name": "MetalRecharging",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/legoandmars/MetalRecharging",
+    "description": "Allows you to recharge any metal object in a realistic way.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

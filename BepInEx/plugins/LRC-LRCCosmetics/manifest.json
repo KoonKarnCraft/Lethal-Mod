@@ -1,0 +1,9 @@
+﻿{
+  "name": "LRCCosmetics",
+  "version_number": "1.3.0",
+  "website_url": "",
+  "description": "A collection of miscellaneous cosmetics.",
+  "dependencies": [	
+    "notnotnotswipez-MoreCompany-1.7.2"
+  ]
+}

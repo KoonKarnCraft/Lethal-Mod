@@ -1,0 +1,7 @@
+{
+  "name": "CommandHandler",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/steven4547466/LethalCompanyCommandHandler",
+  "description": "A dependency mod for developers to easily add commands.",
+  "dependencies": []
+}
