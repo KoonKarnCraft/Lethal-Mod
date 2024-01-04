@@ -1,9 +1,0 @@
-{
-  "name": "BetterPresents",
-  "version_number": "1.0.3",
-  "website_url": "",
-  "description": "Makes scrap from presents more valuable!",
-  "dependencies": [
-    "BepInEx-BepInExPack-5.4.2100"
-  ]
-}

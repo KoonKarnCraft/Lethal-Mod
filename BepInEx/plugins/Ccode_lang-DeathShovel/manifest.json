@@ -1,9 +1,0 @@
-{
-    "name": "DeathShovel",
-    "version_number": "0.0.5",
-    "website_url": "",
-    "description": "3x damage mod for shovel",
-    "dependencies": [
-        "BepInEx-BepInExPack-5.4.2100"
-    ]
-}

@@ -1,9 +1,0 @@
-{
-    "name": "MetalPipe",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/Isbjorn52/LCMetalPipe",
-    "description": "Replaces the shovel model with a metal pipe which plays the appropriate sound effect when hitting something. *metal pipe falling sfx*",
-    "dependencies": [
-        "2018-LC_API-1.2.1"
-    ]
-}

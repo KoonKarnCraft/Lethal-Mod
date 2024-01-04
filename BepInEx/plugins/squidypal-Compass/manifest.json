@@ -1,7 +1,0 @@
-{
-    "name": "Compass",
-    "version_number": "1.0.1",
-    "website_url": "",
-    "description": "Simple compass so you know where you are looking. (This mod uses Melon Loader)",
-    "dependencies": ["LavaGang-MelonLoader-0.5.2"]
-}
