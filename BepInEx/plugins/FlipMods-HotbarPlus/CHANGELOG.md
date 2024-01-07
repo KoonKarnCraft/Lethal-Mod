@@ -1,3 +1,5 @@
+# 1.4.8
++ Fixed issue with custom keybinds for the default emotes not working.
 # 1.4.7
 + Improved stability and fixed some potential issues of desync.
 # 1.4.6

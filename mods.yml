@@ -19,7 +19,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Lyca-Zeraora_suit/1.0.2/icon.png
 - manifestVersion: 1
   name: MikeMediaStudios-MikesTweaks
@@ -44,7 +44,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/MikeMediaStudios-MikesTweaks/2.0.2/icon.png
 - manifestVersion: 1
   name: AMRV-LethalCompanyVariables
@@ -69,7 +69,7 @@
     minor: 5
     patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/AMRV-LethalCompanyVariables/1.5.1/icon.png
 - manifestVersion: 1
   name: cubly-ColourfulFlashlights
@@ -92,7 +92,7 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/cubly-ColourfulFlashlights/2.2.0/icon.png
 - manifestVersion: 1
   name: Ccode_lang-DeathShovel
@@ -114,7 +114,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Ccode_lang-DeathShovel/0.0.5/icon.png
 - manifestVersion: 1
   name: Evaisa-LethalLib
@@ -137,7 +137,7 @@
     minor: 10
     patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Evaisa-LethalLib/0.10.1/icon.png
 - manifestVersion: 1
   name: HolographicWings-LethalExpansion
@@ -157,10 +157,10 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 12
+    patch: 14
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/LethalCompany/cache/HolographicWings-LethalExpansion/1.3.12/icon.png
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/HolographicWings-LethalExpansion/1.3.14/icon.png
 - manifestVersion: 1
   name: FoolishWorks-FoolishWorks_Skinpack
   authorName: FoolishWorks
@@ -183,7 +183,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/FoolishWorks-FoolishWorks_Skinpack/1.1.0/icon.png
 - manifestVersion: 1
   name: NotAtomicBomb-TerminalApi
@@ -205,7 +205,7 @@
     minor: 5
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/NotAtomicBomb-TerminalApi/1.5.0/icon.png
 - manifestVersion: 1
   name: BLKNeko-HookGun
@@ -229,7 +229,7 @@
     minor: 3
     patch: 4
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/BLKNeko-HookGun/1.3.4/icon.png
 - manifestVersion: 1
   name: JustJelly-SubtitlesAPI
@@ -251,7 +251,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/JustJelly-SubtitlesAPI/0.0.5/icon.png
 - manifestVersion: 1
   name: malco-Lategame_Upgrades
@@ -275,7 +275,7 @@
     minor: 8
     patch: 6
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/malco-Lategame_Upgrades/2.8.6/icon.png
 - manifestVersion: 1
   name: Sligili-More_Emotes
@@ -297,7 +297,7 @@
     minor: 2
     patch: 2
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Sligili-More_Emotes/1.2.2/icon.png
 - manifestVersion: 1
   name: steven4547466-CommandHandler
@@ -318,7 +318,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/steven4547466-CommandHandler/1.0.0/icon.png
 - manifestVersion: 1
   name: x753-More_Suits
@@ -341,7 +341,7 @@
     minor: 4
     patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/x753-More_Suits/1.4.1/icon.png
 - manifestVersion: 1
   name: Verity-TooManySuits
@@ -364,7 +364,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Verity-TooManySuits/1.0.5/icon.png
 - manifestVersion: 1
   name: BrainTumor-TumorPack
@@ -387,7 +387,7 @@
     minor: 4
     patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/BrainTumor-TumorPack/1.4.1/icon.png
 - manifestVersion: 1
   name: hesukastro-LCRemoteTerminal
@@ -408,7 +408,7 @@
     minor: 1
     patch: 4
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/hesukastro-LCRemoteTerminal/1.1.4/icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedItemSlotCore
@@ -431,7 +431,7 @@
     minor: 7
     patch: 7
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/FlipMods-ReservedItemSlotCore/1.7.7/icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedWalkieSlot
@@ -455,7 +455,7 @@
     minor: 5
     patch: 3
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/FlipMods-ReservedWalkieSlot/1.5.3/icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
@@ -477,10 +477,10 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 5
+    patch: 7
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/LethalCompany/cache/FlipMods-ReservedFlashlightSlot/1.5.5/icon.png
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/FlipMods-ReservedFlashlightSlot/1.5.7/icon.png
 - manifestVersion: 1
   name: BepInEx_Unofficial-BepInEx_ConfigurationManager
   authorName: BepInEx_Unofficial
@@ -501,7 +501,7 @@
     minor: 1
     patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/BepInEx_Unofficial-BepInEx_ConfigurationManager/18.1.1/icon.png
 - manifestVersion: 1
   name: Blorb-WeatherMultipliers
@@ -523,7 +523,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Blorb-WeatherMultipliers/1.1.0/icon.png
 - manifestVersion: 1
   name: GameMasterDevs-GameMaster
@@ -545,7 +545,7 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/GameMasterDevs-GameMaster/3.2.0/icon.png
 - manifestVersion: 1
   name: notnotnotswipez-MoreCompany
@@ -567,7 +567,7 @@
     minor: 7
     patch: 2
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/notnotnotswipez-MoreCompany/1.7.2/icon.png
 - manifestVersion: 1
   name: FlipMods-HotbarPlus
@@ -588,10 +588,10 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 7
+    patch: 8
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/LethalCompany/cache/FlipMods-HotbarPlus/1.4.7/icon.png
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/FlipMods-HotbarPlus/1.4.8/icon.png
 - manifestVersion: 1
   name: e3s1-BetterLadders
   authorName: e3s1
@@ -613,7 +613,7 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/e3s1-BetterLadders/1.3.0/icon.png
 - manifestVersion: 1
   name: AMRV-ConfigurableCompany
@@ -636,7 +636,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/AMRV-ConfigurableCompany/2.1.0/icon.png
 - manifestVersion: 1
   name: LRC-LRCCosmetics
@@ -658,7 +658,7 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/LRC-LRCCosmetics/1.3.0/icon.png
 - manifestVersion: 1
   name: 2018-LC_API
@@ -677,11 +677,11 @@
   optionalDependencies: []
   versionNumber:
     major: 3
-    minor: 2
-    patch: 3
+    minor: 3
+    patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/LethalCompany/cache/2018-LC_API/3.2.3/icon.png
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/2018-LC_API/3.3.0/icon.png
 - manifestVersion: 1
   name: bizzlemip-BiggerLobby
   authorName: bizzlemip
@@ -703,7 +703,7 @@
     minor: 6
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/bizzlemip-BiggerLobby/2.6.0/icon.png
 - manifestVersion: 1
   name: EliteMasterEric-WackyCosmetics
@@ -725,7 +725,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/EliteMasterEric-WackyCosmetics/1.1.0/icon.png
 - manifestVersion: 1
   name: alexanderjoe-BiggeryBattery
@@ -747,7 +747,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/alexanderjoe-BiggeryBattery/1.0.2/icon.png
 - manifestVersion: 1
   name: tinyhoot-ShipLobby
@@ -769,7 +769,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/tinyhoot-ShipLobby/1.0.2/icon.png
 - manifestVersion: 1
   name: Sligili-HDLethalCompany
@@ -792,7 +792,7 @@
     minor: 5
     patch: 6
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Sligili-HDLethalCompany/1.5.6/icon.png
 - manifestVersion: 1
   name: Obsidians_Modding-ScannablePlayers
@@ -815,7 +815,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Obsidians_Modding-ScannablePlayers/2.0.0/icon.png
 - manifestVersion: 1
   name: Renegades-WalkieUse
@@ -839,7 +839,7 @@
     minor: 4
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Renegades-WalkieUse/1.4.0/icon.png
 - manifestVersion: 1
   name: Drakorle-MoreItems
@@ -862,7 +862,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Drakorle-MoreItems/1.0.1/icon.png
 - manifestVersion: 1
   name: Hotoni-TZPReworkedHealing
@@ -884,7 +884,7 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Hotoni-TZPReworkedHealing/1.3.0/icon.png
 - manifestVersion: 1
   name: AlexCodesGames-AdditionalSuits
@@ -909,7 +909,7 @@
     minor: 1
     patch: 3
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/AlexCodesGames-AdditionalSuits/1.1.3/icon.png
 - manifestVersion: 1
   name: malco-Terminal_TP
@@ -931,7 +931,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/malco-Terminal_TP/1.0.1/icon.png
 - manifestVersion: 1
   name: Renegades-FlashlightToggle
@@ -955,7 +955,7 @@
     minor: 5
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Renegades-FlashlightToggle/1.5.0/icon.png
 - manifestVersion: 1
   name: SirTyler-BetterTeleporter
@@ -977,7 +977,7 @@
     minor: 2
     patch: 2
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/SirTyler-BetterTeleporter/1.2.2/icon.png
 - manifestVersion: 1
   name: anormaltwig-LateCompany
@@ -999,7 +999,7 @@
     minor: 0
     patch: 9
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/anormaltwig-LateCompany/1.0.9/icon.png
 - manifestVersion: 1
   name: Isbjorn52-MetalPipe
@@ -1022,7 +1022,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Isbjorn52-MetalPipe/1.0.0/icon.png
 - manifestVersion: 1
   name: Evaisa-HookGenPatcher
@@ -1044,7 +1044,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Evaisa-HookGenPatcher/0.0.5/icon.png
 - manifestVersion: 1
   name: FlipMods-LetMeLookDown
@@ -1066,7 +1066,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/FlipMods-LetMeLookDown/1.0.1/icon.png
 - manifestVersion: 1
   name: tinyhoot-ShipLoot
@@ -1088,7 +1088,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/tinyhoot-ShipLoot/1.0.0/icon.png
 - manifestVersion: 1
   name: RogerFK_TEAM-FriendlyFirelessCompany
@@ -1112,7 +1112,7 @@
     minor: 2
     patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/RogerFK_TEAM-FriendlyFirelessCompany/0.2.1/icon.png
 - manifestVersion: 1
   name: squidypal-Compass
@@ -1135,7 +1135,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/squidypal-Compass/1.0.1/icon.png
 - manifestVersion: 1
   name: BepInEx-BepInExPack
@@ -1156,7 +1156,7 @@
     minor: 4
     patch: 2100
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/BepInEx-BepInExPack/5.4.2100/icon.png
 - manifestVersion: 1
   name: Tyzeron-Minimap
@@ -1180,7 +1180,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Tyzeron-Minimap/1.0.5/icon.png
 - manifestVersion: 1
   name: x753-Mimics
@@ -1201,10 +1201,10 @@
   versionNumber:
     major: 2
     minor: 3
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/LethalCompany/cache/x753-Mimics/2.3.0/icon.png
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/x753-Mimics/2.3.1/icon.png
 - manifestVersion: 1
   name: AlexTheDragonnn-NoQuota
   authorName: AlexTheDragonnn
@@ -1224,7 +1224,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/AlexTheDragonnn-NoQuota/1.0.1/icon.png
 - manifestVersion: 1
   name: boxofbiscuits97-QuotaRollover
@@ -1247,7 +1247,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/boxofbiscuits97-QuotaRollover/2.1.0/icon.png
 - manifestVersion: 1
   name: Midge-PushCompany
@@ -1270,7 +1270,7 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Midge-PushCompany/1.2.0/icon.png
 - manifestVersion: 1
   name: Poncho-CostlyShotgun
@@ -1295,15 +1295,15 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Poncho-CostlyShotgun/1.0.0/icon.png
 - manifestVersion: 1
   name: Azim-LethalPresents
   authorName: Azim
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/
   displayName: LethalPresents
-  description: A mod which gives Presents a 5% chance of spawning a random enemy
-    when opened.
+  description: A mod which gives Presents a configurable chance of spawning a
+    random enemy when opened.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1311,15 +1311,16 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 0
-    patch: 3
+    patch: 4
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/LethalCompany/cache/Azim-LethalPresents/1.0.3/icon.png
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/Azim-LethalPresents/1.0.4/icon.png
 - manifestVersion: 1
   name: Rune580-LethalCompany_InputUtils
   authorName: Rune580
@@ -1340,7 +1341,7 @@
     minor: 4
     patch: 4
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Rune580-LethalCompany_InputUtils/0.4.4/icon.png
 - manifestVersion: 1
   name: Croquette-BetterInventory
@@ -1363,7 +1364,7 @@
     minor: 2
     patch: 2
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Croquette-BetterInventory/0.2.2/icon.png
 - manifestVersion: 1
   name: Bobbie-MetalRecharging
@@ -1385,7 +1386,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Bobbie-MetalRecharging/1.0.0/icon.png
 - manifestVersion: 1
   name: vasanex-ItemQuickSwitch
@@ -1407,7 +1408,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/vasanex-ItemQuickSwitch/1.1.0/icon.png
 - manifestVersion: 1
   name: sunnobunno-YippeeMod
@@ -1429,7 +1430,7 @@
     minor: 2
     patch: 2
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/sunnobunno-YippeeMod/1.2.2/icon.png
 - manifestVersion: 1
   name: BatTeam-LethalFashion
@@ -1451,7 +1452,7 @@
     minor: 0
     patch: 4
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/BatTeam-LethalFashion/1.0.4/icon.png
 - manifestVersion: 1
   name: KlutzyBubbles-BetterEmotes
@@ -1467,16 +1468,16 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - Rune580-LethalCompany_InputUtils-0.4.3
+    - Rune580-LethalCompany_InputUtils-0.4.4
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 3
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/LethalCompany/cache/KlutzyBubbles-BetterEmotes/1.3.1/icon.png
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/KlutzyBubbles-BetterEmotes/1.3.2/icon.png
 - manifestVersion: 1
   name: Jordo-NeedyCats
   authorName: Jordo
@@ -1495,11 +1496,11 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 2
+    minor: 1
+    patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/LethalCompany/cache/Jordo-NeedyCats/1.0.2/icon.png
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/Jordo-NeedyCats/1.1.1/icon.png
 - manifestVersion: 1
   name: TV23-BoomBoxNoPower
   authorName: TV23
@@ -1520,7 +1521,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/TV23-BoomBoxNoPower/1.0.0/icon.png
 - manifestVersion: 1
   name: RugbugRedfern-Skinwalkers
@@ -1542,7 +1543,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/RugbugRedfern-Skinwalkers/2.0.1/icon.png
 - manifestVersion: 1
   name: Evaisa-LethalThings
@@ -1567,7 +1568,7 @@
     minor: 8
     patch: 8
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Evaisa-LethalThings/0.8.8/icon.png
 - manifestVersion: 1
   name: EladNLG-EladsHUD
@@ -1589,7 +1590,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/EladNLG-EladsHUD/1.1.0/icon.png
 - manifestVersion: 1
   name: EliteMasterEric-SlimeTamingFix
@@ -1611,7 +1612,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/EliteMasterEric-SlimeTamingFix/1.0.2/icon.png
 - manifestVersion: 1
   name: Silvercore-Permanent_Ladder
@@ -1633,7 +1634,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Silvercore-Permanent_Ladder/1.0.3/icon.png
 - manifestVersion: 1
   name: 404_Dom-Doms_Basic_Suit_Colors
@@ -1656,7 +1657,7 @@
     minor: 4
     patch: 4
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/404_Dom-Doms_Basic_Suit_Colors/1.4.4/icon.png
 - manifestVersion: 1
   name: Toskan4134-LethalRegeneration
@@ -1676,11 +1677,11 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
-    patch: 1
+    minor: 2
+    patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/LethalCompany/cache/Toskan4134-LethalRegeneration/1.1.1/icon.png
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/Toskan4134-LethalRegeneration/1.2.0/icon.png
 - manifestVersion: 1
   name: SZAKI-RemoteRemastered
   authorName: SZAKI
@@ -1702,7 +1703,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/SZAKI-RemoteRemastered/1.0.2/icon.png
 - manifestVersion: 1
   name: Electric131-OuijaBoard
@@ -1725,7 +1726,7 @@
     minor: 5
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Electric131-OuijaBoard/1.5.0/icon.png
 - manifestVersion: 1
   name: TwinDimensionalProductions-DanceOff
@@ -1748,7 +1749,7 @@
     minor: 0
     patch: 8
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/TwinDimensionalProductions-DanceOff/1.0.8/icon.png
 - manifestVersion: 1
   name: monkes_mods-JumpDelayPatch
@@ -1770,7 +1771,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/monkes_mods-JumpDelayPatch/1.0.1/icon.png
 - manifestVersion: 1
   name: Ozone-BepInUtils
@@ -1792,7 +1793,7 @@
     minor: 2
     patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Ozone-BepInUtils/1.2.1/icon.png
 - manifestVersion: 1
   name: Ozone-Glow_Steps
@@ -1817,7 +1818,7 @@
     minor: 1
     patch: 2
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Ozone-Glow_Steps/1.1.2/icon.png
 - manifestVersion: 1
   name: joe1359-LethalExtras
@@ -1841,7 +1842,7 @@
     minor: 0
     patch: 4
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/joe1359-LethalExtras/1.0.4/icon.png
 - manifestVersion: 1
   name: ViViKo-AllTheScrap
@@ -1864,7 +1865,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/ViViKo-AllTheScrap/1.0.1/icon.png
 - manifestVersion: 1
   name: rhydiaan-NicerTeleporters
@@ -1888,7 +1889,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/rhydiaan-NicerTeleporters/1.1.0/icon.png
 - manifestVersion: 1
   name: phawitpp-SuperLandmine
@@ -1910,7 +1911,7 @@
     minor: 1
     patch: 3
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/phawitpp-SuperLandmine/1.1.3/icon.png
 - manifestVersion: 1
   name: Nebulaetrix-BetterPresents
@@ -1932,7 +1933,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Nebulaetrix-BetterPresents/1.0.3/icon.png
 - manifestVersion: 1
   name: Po-LCPocketBoombox
@@ -1954,7 +1955,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Po-LCPocketBoombox/1.0.0/icon.png
 - manifestVersion: 1
   name: Lecre-ConchaSuMareMod
@@ -1977,5 +1978,52 @@
     minor: 2
     patch: 1
   enabled: true
-  icon: C:/Users/boomb/AppData/Roaming/Thunderstore Mod
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
     Manager/DataFolder/LethalCompany/cache/Lecre-ConchaSuMareMod/1.2.1/icon.png
+- manifestVersion: 1
+  name: TopraksuK-FreeBirdTotemRemixJester
+  authorName: TopraksuK
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TopraksuK/FreeBirdTotemRemixJester/
+  displayName: FreeBirdTotemRemixJester
+  description: Free Bird (TOTEM Remix) for the Jester with the initial part being
+    for the winding, solo part for the killing mode. The transition between the
+    two parts is seamless.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/TopraksuK-FreeBirdTotemRemixJester/1.0.1/icon.png
+- manifestVersion: 1
+  name: Winfi4-winfi4YoutubeBoombox
+  authorName: Winfi4
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Winfi4/winfi4YoutubeBoombox/
+  displayName: winfi4YoutubeBoombox
+  description: Boombox songs from Youtube. Old version mod by Steven4547466
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - 2018-LC_API-2.2.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:/Users/KoonKarn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/Winfi4-winfi4YoutubeBoombox/1.0.2/icon.png

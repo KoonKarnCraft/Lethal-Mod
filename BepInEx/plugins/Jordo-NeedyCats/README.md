@@ -1,10 +1,10 @@
-# Needy Cats v1.0.2
+# Needy Cats v1.1.1
 ### <i>You like cats? The company likes cats too! Find them roaming the various abandoned facilities and bring them home*!</i>
 ##
 ###
 Ever wanted to bring felines into Lethal Company? It is now possible with this mod! You will see cats that roam around, meow <b>(loudly, be careful!)</b> and sit down when they feel safe. <br> Make sure to pet them regularly, otherwise they may attract unwanted guests with their noise.
 
-The spawn rate of cats is configurable (default to 20) and the host can change names.txt to modify the pool of available cat names.
+The host can modify the spawn rate of cats (default to 20) and [modify the pool of available cat names as well as assign specific fur colors per name if desired.](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/wiki/1048-modifying-the-cats-names/) 
 
 
 <br>
