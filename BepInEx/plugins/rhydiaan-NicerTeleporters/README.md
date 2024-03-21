@@ -21,6 +21,9 @@ A lethal company mod that makes teleporters a little bit nicer :)
 - Install via [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) (Recommended) or [Thunderstore Mod Manager](https://www.overwolf.com/oneapp/thunderstore-mod-manager)
 
 ## Change list
+### v1.1.1
+- Fixed a bug where player weight was not calculated properly after teleporting with items.
+
 ### v1.1.0
 - Reduced inverse teleporter cooldown from 210 to 45 seconds.
 - Resets teleporter cooldowns at start of round.

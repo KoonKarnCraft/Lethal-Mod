@@ -1,3 +1,9 @@
+# 2.7.0
++ Fixed a bug where [playerNum0] would sometimes incorrectly appear
++ Fixed Player Count text box being slightly offset
++ Added LethalExpansion compatibility
++ Improved logging
++ Fixed leveling glitch caused by BiggerLobby incorrectly interacting with BetterExp (or any other post-boss leveling mods)
 # 2.6.0
 + Fixed a bug where creating a lobby with a size of 4 wouldn't work properly
 + Fixed end stats screen not appearing

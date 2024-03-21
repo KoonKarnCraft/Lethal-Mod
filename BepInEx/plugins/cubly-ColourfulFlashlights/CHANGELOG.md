@@ -1,3 +1,6 @@
+## 2.2.1
+- Changed repository location
+
 ## 2.2.0
 - Added tip popup when first using an uncoloured flashlight
 - Updated commands

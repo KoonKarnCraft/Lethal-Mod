@@ -1,7 +1,7 @@
 {
     "name": "ColourfulFlashlights",
-    "version_number": "2.2.0",
-    "website_url": "https://github.com/Cubly/ColourfulFlashlights",
+    "version_number": "2.2.1",
+    "website_url": "https://codeberg.org/cubly/ColourfulFlashlights",
     "description": "Customise the colour of your flashlights! Syncs with other players!",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",

@@ -1,3 +1,29 @@
+# 2.0.2
++ Added reminder in config descriptions about adding items, that translated items may need to be added to the list of additional items.
++ Changed default item slot priority to 150 (from 100). Flashlight priority has been raised to 200 (from 120). Priority order should remain be unchanged.
++ Added current items in slot to the README.
+# 2.0.1
++ Fixed issue with not being able to activate the push-to-talk hotkey for the walkie when disabling purchasing slots.
+# 2.0.0
++ Adds support for ReservedItemSlotCore 2.0.0 features.
++ Walkie slot can now be purchased!
++ Item slot price can be adjusted in the config.
++ Item slot priority can now be adjusted in the config.
++ Items can be added to this reserved item slot in the config. This can be handy when adding variations of this item, or when adding an item's translated name to the slot.
+# 1.6.2
++ Fixed warnings when InputUtils is not enabled.
+# 1.6.1
++ Fix for issue where dead masked enemies would constantly try to re-equip walkies.
++ Fix for issue where masked enemies wouldn't properly destroy their holstered reserved walkie after being destroyed.
+# 1.6.0
++ Masked enemies will now display your holstered reserved items if they are mimicking you.
+# 1.5.5
++ Changes to support ReservedItemSlotCore 1.8.9
++ Fixed issue with not being able to type correctly in terminal with walkie equipped, and pressing the talk hotkey.
++ Fixed issue with building placement/rotation being canceled when speaking into walkie.
+# 1.5.4
++ Added support for InputUtils, as a soft dependency. If this mod is enabled, you will be able to access any relevant hotkeys within the game's keybind menu.
++ Undid the edited tooltip for the walkie controls.
 # 1.5.3
 + Fixed a specific issue causing an error about index out of range.
 # 1.5.2

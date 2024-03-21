@@ -1,8 +1,8 @@
 {
     "name": "ConfigurableCompany",
-    "version_number": "2.1.0",
-    "website_url": "https://github.com/TheAnsuz",
-    "description": "An API to allow modders to create save-dependant configurations that remain between matches, all with the simplicity of a click",
+    "version_number": "3.1.0",
+    "website_url": "https://github.com/TheAnsuz/Lethal-Company-Configurable-Company-API",
+    "description": "A robust and powerful API for configuration handling and synchronization in real time. Create file-dependant configurations that can be changed while in game by the players. (The developer MUST implement their own configurations)",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
     ]

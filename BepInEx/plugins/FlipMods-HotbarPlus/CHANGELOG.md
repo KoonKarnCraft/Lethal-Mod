@@ -1,3 +1,26 @@
+# 1.5.10
++ You can now quick swap hotbar slots with the number keys while emoting, except when emoting with TooManyEmotes, unless the config in TooManyEmotes allows moving while emoting.
+# 1.5.9
++ Added extra check to when you can swap item slots with the number keys. You cannot swap while emoting, or if you're dead.
+# 1.5.8
++ Disabled item quick swapping when General Improvements is enabled because this causes some issues.
++ Fixed quick switching with the number keys to be compatible with clients without this mod.
+# 1.5.7
++ Config sync should now regenerate correctly every time you load into a game, rather than only the first time.
+# 1.5.6
++ Forgot to add to the previous changelog that quick item swapping now won't work while typing.
+# 1.5.5
++ Fixed issue with quick drop not working again. (this feature will haunt me, I swear)
+# 1.5.4
++ Added checks if currently dropping an object on the server before allowing the quick item swapping hotkeys.
+# 1.5.3
++ Fixed quick drop delay bug that was making items disappear on non-host clients when they dropped items. (sometimes) Sorry for the recent de-sync issues!
+# 1.5.2
++ Re-enabling quick item drop. Still may cause de-sync if the host doesn't have the mod.
+# 1.5.1
++ Disabling the numeric hotbar shortcuts in the config should now work correctly, even with InputUtils enabled.
+# 1.5.0
++ Added support for InputUtils, as a soft dependency. If this mod is enabled, you will be able to access any relevant hotkeys within the game's keybind menu.
 # 1.4.8
 + Fixed issue with custom keybinds for the default emotes not working.
 # 1.4.7

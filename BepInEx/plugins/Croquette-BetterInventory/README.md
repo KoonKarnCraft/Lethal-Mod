@@ -2,6 +2,9 @@
 BetterInventory adds some inventory related quality of life features while keeping the game design as close as possible to the original.
 
 ## Updates
+### 0.2.3
+- Adding network code to fix desynch of item shown when swapping using shortcuts
+
 ### 0.2.2
 - Fixed an issue where Swap mode could make items disappear by overriding an item by picking up a new one.
 - Fixed an issue where inventory slot frames were changing color to black.

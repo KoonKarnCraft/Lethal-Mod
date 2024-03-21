@@ -48,6 +48,12 @@ Customizable natural health regeneration mod that syncs with host
 -   **Description**: Cost of ship upgrade.
 -   **Valid Values**: More than 0
 
+### Regeneration Limit Per Player
+
+-   **Default Value**: -1
+-   **Description**: Regeneration limit in a round.
+-   **Valid Values**: More than 0 (-1 to be unlimited)
+
 ## Credits
 
 -   Programmed by [Toskan4134](https://discordapp.com/users/356817504330448906)

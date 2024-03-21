@@ -41,6 +41,29 @@ This mod is not affiliated with BiggerLobby/LethalPlayers nor does it use any co
 ```
 
 # Changelog
+## 1.8.1
+- Readded optimization which was accidentally removed.
+
+## 1.8.0
+- Fixed LAN support.
+- Loading screen icon now shows the MoreCompany logo.
+- Improved compatibility between other mods.
+
+## 1.7.6
+- Revert audio related changes. Will revisit at a later date.
+
+## 1.7.5
+- Fixed bug regarding mimics ignoring the local cosmetic setting and equipping player cosmetics anyway.
+- Minor "patch" relating to voice pitch. Only affects primary 4 players.
+
+## 1.7.4
+- Fixed crew count changer not displaying on the host screen.
+
+## 1.7.3
+- Fixed compatibility with v47.
+- Fixed kicking not working on some players.
+- Added safety check for duplicate cosmetics.
+
 ## 1.7.2
 - Added 1 new cosmetic.
 - Players which have been taken over by the mask will now keep their cosmetics when they become masked.

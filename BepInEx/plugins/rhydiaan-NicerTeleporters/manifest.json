@@ -1,6 +1,6 @@
 {
     "name": "NicerTeleporters",
-    "version_number": "1.1.0",
+    "version_number": "1.1.1",
     "website_url": "https://github.com/rhydiaan/NicerTeleporters",
     "description": "Mod that makes Teleporter and Inverse Teleporter no longer drop Shovels, WalkieTalkies, Keys, Flashlights and Boomboxes. Also reduces Inverse Teleporter cooldown.",
     "dependencies": [

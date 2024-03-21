@@ -21,6 +21,14 @@ To use, press **F10** to open the menu.
 ![RemoteTerminal UI](https://raw.githubusercontent.com/jjesuscastro/HesuLC/master/LCRemoteTerminal/UI.png "RemoteTerminal UI")
 
 ## Version Changes
+**2.0.0**
+> - Removed UniverseLib
+> - Updated UI to use Asset Bundle
+
+**1.2.0**
+> - Updated UI
+> - Added Transmit Message
+
 **1.1.4**
 > - Removed in-game chat commands
 > - Updated UI

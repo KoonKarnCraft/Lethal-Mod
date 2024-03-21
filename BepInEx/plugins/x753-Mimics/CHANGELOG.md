@@ -1,3 +1,14 @@
+## v2.4.1 Oops
+- Fixed broken networking from 2.4.0 update
+
+## v2.4.0 Modded Interior Support
+- Added very limited support for modded interiors
+- Whitelist (certain) modded interiors in the config
+
+## v2.3.2 Updated for v47
+- Fixed bestiary entry for real this time
+- The mod now works on v47
+
 ## v2.3.1 Lore for Everyone
 - Bestiary entry for mimics now works for remote clients
 

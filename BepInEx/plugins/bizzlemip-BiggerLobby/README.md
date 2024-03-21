@@ -1,5 +1,5 @@
 
-# BiggerLobby V2.6.0
+# BiggerLobby V2.7.0
 
 Allows up to 40 players to join lobbies.
 

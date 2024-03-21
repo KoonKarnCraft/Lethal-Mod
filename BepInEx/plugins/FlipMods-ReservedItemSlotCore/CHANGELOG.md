@@ -1,3 +1,139 @@
+# 2.0.12
++ Removed wrong changelog entry.
+# 2.0.11
++ You can now swap between hotbar slots while emoting, except when emoting with TooManyEmotes, unless the config in TooManyEmotes allows moving while emoting.
++ Added config options to disable displaying holstered reserved items on players, and a config option to disable this for masked enemies as well.
+# 2.0.10
++ Added methods for mapping items to their original name.<br>
+This should fix issues with items not going to their reserved item slot when players running localization mods.
+# 2.0.9
++ Fixed issue with reserved item slots with prices set to 0 not automatically unlocking upon starting/loading a game.
++ Possible item duplication fix.
+# 2.0.8
++ Fixed issue where some reserved items would appear invisible in your hand. This usually happened with the Stun grenade and Improvised flashbang.
++ Fixed issue with terminal scrolling being inverted when entering it while your reserved slots are focused.
++ Masked enemies should correctly have any holstered flashlight enabled. (*should*)
+# 2.0.7
++ Cleaned up some API functions.
++ As always, to reference the latest API features, reference the latest ReservedItemSlotCore.dll
++ If your mod depends on this mod, I also recommend updating the dependency string in your manifest.json file to require the latest version of this mod.
++ Added more useful API functions in the ReservedItemSlotCore.SessionManager class.
++ Added some more API examples in the README.
++ Added config options for adding custom item slots.<br>Setting the number of custom reserved item slots in the config, and then launching the game will generate new configs for each custom reserved item slot for you to fill out.
+# 2.0.6
++ Fixed potential issue with other mods that might add item slots. This fixes the issues with HotbarPlus.
++ Found and fixed another issue causing de-sync.
++ Fixed an issue in some scenarios where the item mesh of a holstered item was being disabled.
++ Fixed the issue where holstered reserved item slots would not immediately appear on players upon joining a game. (and they had them equipped already)
++ Thanks for all the tips and reporting these issues!
+# 2.0.5
++ Fixed most of the new de-sync issues introduced in 2.0.x
++ Fixed the main cause of duplicate items appearing in your hand.
++ You now have access to the reserved item slots in the pre-game lobby.
++ Items in reserved slots *should* sync with clients joining the session for the first time. This should work in the pre-lobby, or mid-game, if using mods that allows this.<br>
+Note: When joining a session, reserved items may be invisible at first when they should appear on the player holstered. This is fine, but will be fixed.
++ Fixed some cases where item slots, unlocked item slots, and some UI were not resetting upon new games when purchasing item slots is enabled.
++ There may be a few more (hopefully only minor) bugs, but if you could please report them on the github, I would greatly appreciate it!<br>
+Also note: I did not test EVERY aspect for bugs except for the ones immediately known to me, so I am not claiming that they are all fixed. Hopefully most of them.
+# 2.0.4
++ Fixed issue with terminal always showing that purchasing slots is disabled in some cases.
++ Potential fix for other random issues. (sorry this is vague)
++ Checking if a reserved slot is unlocked is more accurate and fixes a few issues.
++ Still a lot more issues that I'm currently trying to consistently reproduce. Fixes will come soon!
++ Fixed issue with purchased item slots not disappearing upon starting new games.
++ If you have issues or bugs to share, I would appreciate if you could post an issue on the github, and let me know if you guys enabled purchasing slots in the config, who it affected, or was it everyone? Did it affect both host and clients? Can you reproduce it?<br>
+Any of that information would be extremely helpful, and thanks!
+# 2.0.3
++ Fixed terminal preventing the TooManyEmotes store from appearing.
++ Fixed some internal issues that was causing this mod to incorrectly identify an item in a reserved item slot.<br>
+This is partially related to not being able to activate the flashlight with [F], or walkie with [X].
++ Disabled purchasing slots by default.
++ Terminal will now display under the Reserved Tip if the host disabled purchasing slots.
++ More fixes coming soon!
+# 2.0.2
++ Fixed issue with non-host clients not unlocking slots when host disabled purchasing them.
++ Added pre-game reminder that reserved item slots won't be available until the round has started.
+# 2.0.1
++ Quick fix for the terminal not showing tips related to this mod, or how to buy reserved item slots.
+# 2.0.0
++ Re-did most (if not all) of the codebase revolving around reserved slots data, and how it is handled to support new features and API functionality.<br>
+This update may break other mods' references to this one, and if so, I do apologize!
++ For more info regarding this update, please read the README.
++ Added progression. You can now purchase reserved item slots in the terminal! (can be disabled in the config)
++ Added API functions to offically allow mod developers to create their own reserved item slots, and add their items (any item) to it.<br>
+The added API features also allows mod developers to easily add items from their mod (or even items from another mod) to existing reserved item slots, if this mod is enabled.
++ Even more configurable! The following config options can only be used if implemented by developers of reserved item slot mods.
++ Reserved item slot priorities can be can now be changed from their default values in the config.<br>
+Changing priorities will change the order of the reserved item slots on the right (and left) side of your screen. The higher the priority, the further down in order they will be.
++ Adds support for adding extra items to reserved slots in the config.
++ Adds support for removing existing items from reserved slots in the config.
++ The ReservedItemSlotCore mod now handles all of the displaying of holstered reserved items. (Optional) When creating reserved items, or adding items to existing reserved item slots, mod developers can easily specify a bone to anchor a reserved item to when holstered, as well as a position/rotation offset.<br>
+Read the README for more information on this.
++ The ReservedItemSlotCore mod now handles displaying reserved items on Masked Enemies, as long as developers define how their item will be displayed while holstered.
++ Added functionality to swap and toggle specific reserved item slots. Example: ReservedWeaponSlot has a keybind to toggle the reserved weapon slot. When pressed, that reserved slot will be toggled until you scroll off of it, without needing to hold Alt.<br>
+This will need to be implemented by developers who create their own reserved item slot mods.
++ I probably broke a few things, or introduced new bugs with this update, so please post any major issues on my github. Thank you!
+# 1.8.17
++ Fixed warnings when InputUtils is not enabled.
+# 1.8.16
++ Re-restricted the use of this mod for non-host clients if the host does not have it enabled. This still CAN, and likely WILL cause desync issues if used this way, but for those who are stubborn enough, you can force allow this in the config. You have been warned!
+# 1.8.15
++ Keybind display names should now display the correct keybind, whether on keyboard or controller.
++ All relevant keybind display names for this mod should automatically switch between keyboard and controller accordingly.
++ Added more controller support, with and without InputUtils. Works best with InputUtils installed, and easier to configure the controls.
+# 1.8.14
++ Gave internal access to the ReservedKeySlot mod by: nitsuD
+# 1.8.13
++ Revised a few methods to help prevent the error spam with players sending negative hotbar slot changes to the server.
++ Added more logs to help debug current or future errors.
++ Removed a block of code that could have been miscalculating the new reserved item slots start index when inventory size changes. (for other players)
++ As always, if this version seems unstable, please revert back to 1.8.12 until this has been updated.
+# 1.8.12
++ Disabled adjusting inventory HUD elements in AdvancedCompany is enabled. (temporary maybe)
++ Small tweaks to code.
+# 1.8.11
++ Added more reliable checks for the local player when the inventory size changes, for calculating which item slot index is the start of the reserved item slots. Should fix <i>some</i> issues.<br>
++ When using this mod with AdvanceCompany, (and it decides to behave itself) the reserved slots shouldn't use the feet slots from that mod.
++ If this mod creates errors with AdvancedCompany, it might be best to run without this mod (or AC) until the issue is fixed.
+# 1.8.10
++ Minor changes.
+# 1.8.9
++ Fixed some issues throwing errors in the console.
++ Fixed item appearing quickly and then disappearing from your hand when you pick up a reserved item.
++ Fixed control tips flickering to grabbed reserved item controls, and then back to the previous controls.
++ Maybe fixed more cases where you can't scroll in the reserved slots?
++ Added more code to support features for the reserved item slot mods.
+# 1.8.8
++ Added more checks, and prevented some more issues if host does not have mod. (Again, use with caution!)
+# 1.8.7
++ Fixed bug with controllers not being able to scroll through reserved hotbar slots with d-pad. (or another keybind)
++ Added some compatibility checks.
++ Reallowed use of reserved slot mods even if host doesn't have them. Use with caution!
++ Automatically changes any relevant control tooltips if player is using a controller or not.
+# 1.8.6
++ Some compat tweaks.
++ Focus reserved hotbar tooltip now changes when keybind is updated in game. (with InputUtils)
+# 1.8.5
++ Fixed the bug preventing you from swapping hotbars that I created in 1.8.4 (sorry!)
+# 1.8.4
++ Removed old code that had methods being called before they were instantiated. Hopefully fixes some errors people are getting.
+# 1.8.3
++ Fixed typo in bug.
++ Forgot to re-edit a line of code I changed that prevented the server from getting hotbar swap updates from the clients.
+# 1.8.2
++ Fixed some bugs.
++ Added support for InputUtils, as a soft dependency. If this mod is enabled, you will be able to access any relevant hotkeys within the game's keybind menu. (will do the same for the individual reserved mods soon)
++ Added to the compatibility logic for other mods that increase inventory size. (may need more testing)
++ The reserved hotbar scroll direction should now match the mouse, regardless of inverted scroll settings.
++ (Readded) Swapping between reserved hotbar slots will now skip empty slots.
++ Attempted to refix compat with AdvancedCompany. May or may not work? No promises!
+# 1.8.1
++ Added debug logs and dumps when errors occur when certain functions are called with incorrect values. Hopefully people share these with me on the Lethal Company Modding Discord!
+# 1.8.0
++ Support for v47.
++ Slight code structure revamp.
++ Add compatibility between other mods that may change players' inventory size dynamically, such as LethalThings' utility belt. Not guaranteed for all mods.
++ Maybe added some bugs, idk.
 # 1.7.7
 + Potential fix for the infamous de-sync issue.
 # 1.7.6

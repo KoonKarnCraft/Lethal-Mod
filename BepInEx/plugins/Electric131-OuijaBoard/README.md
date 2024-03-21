@@ -80,3 +80,13 @@ First beta build.
 
 ## v1.5.0
 - Bypass interact checks when UI is open by making game temporarily think player is alive (WORKS WITH SPECTATE ENEMIES!!!)
+
+## v1.5.1
+- Config option to change menu keybind. (brought up by demosche)
+
+## v1.5.2
+- Added config options for min and max price
+- Fixed error logging when player was invalid
+
+## v1.5.3
+- Fixes compatibility with SpectateEnemies (Due to the changed input method)

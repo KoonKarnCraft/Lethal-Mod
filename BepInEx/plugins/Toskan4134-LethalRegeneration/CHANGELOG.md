@@ -1,3 +1,9 @@
+# [06-03-2024] - 1.3.0
+
+### Added
+
+-   Regeneration limit per person in a round
+
 # [30-12-2023] - 1.2.0
 
 ### Added
